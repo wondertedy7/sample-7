@@ -1,2 +1,2 @@
 # sample-7
-just a demo
+just a demo for QA
